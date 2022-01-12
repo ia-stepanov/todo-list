@@ -1,4 +1,6 @@
 # ToDo List
+### ***Учебный проект из курса [Фундаментальный JavaScript](https://www.udemy.com/course/fundamental-javascript/)***
+**Автор курса: [Михаил Непомнящий](https://www.udemy.com/user/mikhail-nepomniashchii/)**
 
 ## Описание проекта
 ToDo List - цель учебного проекта закрепить на практике асинхронную работу с [удалённым сервером](https://jsonplaceholder.typicode.com/).
